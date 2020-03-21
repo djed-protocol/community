@@ -4,11 +4,11 @@ The Djed Foundation Interim Risk Team has placed a Governance Poll into the  [vo
 
 This Governance Poll  will be active for 30 days beginning  March 21, 2020 at 4 PM UTC, the results of which may inform an Executive Vote which will go live on Monday, April 20, at 4 PM UTC.
 
-##Review
+## Review
 
 The USDJ Stability Fee was discussed in the Governance call on Sunday , March 22. 
 
-##Next Steps
+## Next Steps
 
 On the Friday following the conclusion of the poll, there will be an Executive Vote asking JED token holders if they support or reject the change proposed by this Governance Poll.
 
